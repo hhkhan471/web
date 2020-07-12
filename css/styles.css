@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 150%;
+
+}
+.intro{
+  font-weight: normal;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color: grey;
+  border-width: 10px;
+}
+h1 {
+  color:  #66BFBF;
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive
+
+
+}
+
+h2 {
+  color:  #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #e4f9f6;
+  position: relative;
+  padding-top: 100px;
+  margin: 50px auto 0 auto;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 10rem;
+}
+.intro{
+  color: #40514E;
+}
+.ski-color{
+  color: #40514E;
+}
+.piza-Challange{
+  color: #11999E;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+  }
+  .copyright{
+    color: #EAF6F6;
+  }
+
+
+div {
+  background-color: #e3fdfd;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  margin-left: 400px;
+}
+.footer-link{
+  color: #11999E;
+
+}
+.code-img{
+  width:25%;
+  float: left;
+  margin: 30px;
+}
+.pizza-img{
+  width: 20%;
+  float: right;
+  margin: 30px;
+}
+.myButton {
+	background-color:#66bfbf;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:28px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #306129;
+  margin: 2rem;
+}
+.myButton:hover {
+	background-color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
